@@ -20,7 +20,7 @@ Projeto pessoal de demonstração de habilidade para portfólio.
 ### Versão Mobile 📱<p align="center">
 
 <p align="center">
-  <img src="https://i.postimg.cc/Y0kWqCkT/Foto-Mobile.png" alt="Imagem do design em celular" width=300 />
+  <img src="https://i.postimg.cc/" width=300 />
 </p>
 
 ## Funcionalidades
